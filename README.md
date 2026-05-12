@@ -1,4 +1,4 @@
-<img width="1012" height="617" alt="image" src="https://github.com/user-attachments/assets/f1a1fede-212d-48c3-9242-85d13c2bdcc1" />
+![ZW Vault Demo](demo.gif)
 
 # ZW Vault — Password Manager
 
