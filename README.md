@@ -1,3 +1,5 @@
+<img width="1012" height="617" alt="image" src="https://github.com/user-attachments/assets/f1a1fede-212d-48c3-9242-85d13c2bdcc1" />
+
 # ZW Vault — Password Manager
 
 I built this because I wanted to actually understand how password managers work not just use one. Everything is encrypted locally meaning nothing leaves your computer.
