@@ -1,6 +1,6 @@
 # ZW Vault — Password Manager
 
-I built this because I wanted to actually understand how password managers work not just use one. Everything is encrypted locall meaning nothing leaves your computer.
+I built this because I wanted to actually understand how password managers work not just use one. Everything is encrypted locally meaning nothing leaves your computer.
 
 ## What it does
 - Encrypts every password with AES before saving it
