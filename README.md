@@ -33,3 +33,7 @@ python -m venv venv
 venv\Scripts\activate
 pip install cryptography pyperclip colorama
 python manager.py
+
+## What this taught me
+
+This was a very interesting python project. I had to figure out how encryption actually works, not just use a library blindly, understanding why you hash a master password differently from how you encrypt stored passwords was definitely something new that ive never learnt before. The hardest part was getting the key management right so passwords survive closing and reopening the program. This was overall super fun and a great experience, despite it being somewhat tedious.
